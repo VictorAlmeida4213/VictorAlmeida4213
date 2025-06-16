@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Victor
-- 
 
-Currently completely invested in Game Dev and anything creative including 3D modeling, coding and design!
+Currently finding entry level work in anything tech to kick start a career!
 
 <!---
 VictorAlmeida4213/VictorAlmeida4213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
